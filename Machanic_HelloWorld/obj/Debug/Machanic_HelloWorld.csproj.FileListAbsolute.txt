@@ -1,0 +1,7 @@
+C:\Users\tyler\Desktop\IGME 206\Machanic_HelloWorld\bin\Debug\Machanic_HelloWorld.exe.config
+C:\Users\tyler\Desktop\IGME 206\Machanic_HelloWorld\bin\Debug\Machanic_HelloWorld.exe
+C:\Users\tyler\Desktop\IGME 206\Machanic_HelloWorld\bin\Debug\Machanic_HelloWorld.pdb
+C:\Users\tyler\Desktop\IGME 206\Machanic_HelloWorld\obj\Debug\Machanic_HelloWorld.csprojAssemblyReference.cache
+C:\Users\tyler\Desktop\IGME 206\Machanic_HelloWorld\obj\Debug\Machanic_HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\tyler\Desktop\IGME 206\Machanic_HelloWorld\obj\Debug\Machanic_HelloWorld.exe
+C:\Users\tyler\Desktop\IGME 206\Machanic_HelloWorld\obj\Debug\Machanic_HelloWorld.pdb
