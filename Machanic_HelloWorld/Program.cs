@@ -6,8 +6,15 @@ using System.Threading.Tasks;
 
 namespace Machanic_HelloWorld
 {
+    // Class: Program
+    // Author: Tyler Machanic
+    // Purpose: Print Hello World! and Practice Basic C#
+    // Restrictions: None
     class Program
     {
+        // Method: Main
+        // Purpose: Print Hello World!, my name, casting and while loop
+        // Restrictions: None
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
