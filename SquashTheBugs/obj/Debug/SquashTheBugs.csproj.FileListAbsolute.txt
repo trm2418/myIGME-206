@@ -1,0 +1,7 @@
+C:\Users\tyler\Desktop\IGME 206\SquashTheBugs\bin\Debug\SquashTheBugs.exe.config
+C:\Users\tyler\Desktop\IGME 206\SquashTheBugs\bin\Debug\SquashTheBugs.exe
+C:\Users\tyler\Desktop\IGME 206\SquashTheBugs\bin\Debug\SquashTheBugs.pdb
+C:\Users\tyler\Desktop\IGME 206\SquashTheBugs\obj\Debug\SquashTheBugs.csprojAssemblyReference.cache
+C:\Users\tyler\Desktop\IGME 206\SquashTheBugs\obj\Debug\SquashTheBugs.csproj.CoreCompileInputs.cache
+C:\Users\tyler\Desktop\IGME 206\SquashTheBugs\obj\Debug\SquashTheBugs.exe
+C:\Users\tyler\Desktop\IGME 206\SquashTheBugs\obj\Debug\SquashTheBugs.pdb
