@@ -1,0 +1,7 @@
+C:\Users\tyler\Desktop\IGME 206\myIGME-206\Product\bin\Debug\Product.exe.config
+C:\Users\tyler\Desktop\IGME 206\myIGME-206\Product\bin\Debug\Product.exe
+C:\Users\tyler\Desktop\IGME 206\myIGME-206\Product\bin\Debug\Product.pdb
+C:\Users\tyler\Desktop\IGME 206\myIGME-206\Product\obj\Debug\Product.csprojAssemblyReference.cache
+C:\Users\tyler\Desktop\IGME 206\myIGME-206\Product\obj\Debug\Product.csproj.CoreCompileInputs.cache
+C:\Users\tyler\Desktop\IGME 206\myIGME-206\Product\obj\Debug\Product.exe
+C:\Users\tyler\Desktop\IGME 206\myIGME-206\Product\obj\Debug\Product.pdb
