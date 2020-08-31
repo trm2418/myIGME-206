@@ -1,0 +1,7 @@
+C:\Users\tyler\Desktop\IGME 206\myIGME-206\GreaterThan10\obj\Debug\GreaterThan10.csprojAssemblyReference.cache
+C:\Users\tyler\Desktop\IGME 206\myIGME-206\GreaterThan10\obj\Debug\GreaterThan10.csproj.CoreCompileInputs.cache
+C:\Users\tyler\Desktop\IGME 206\myIGME-206\GreaterThan10\bin\Debug\GreaterThan10.exe.config
+C:\Users\tyler\Desktop\IGME 206\myIGME-206\GreaterThan10\bin\Debug\GreaterThan10.exe
+C:\Users\tyler\Desktop\IGME 206\myIGME-206\GreaterThan10\bin\Debug\GreaterThan10.pdb
+C:\Users\tyler\Desktop\IGME 206\myIGME-206\GreaterThan10\obj\Debug\GreaterThan10.exe
+C:\Users\tyler\Desktop\IGME 206\myIGME-206\GreaterThan10\obj\Debug\GreaterThan10.pdb
