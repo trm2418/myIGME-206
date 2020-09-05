@@ -1,0 +1,7 @@
+C:\Users\tyler\Desktop\IGME 206\myIGME-206\MemoryGame\bin\Debug\MemoryGame.exe.config
+C:\Users\tyler\Desktop\IGME 206\myIGME-206\MemoryGame\bin\Debug\MemoryGame.exe
+C:\Users\tyler\Desktop\IGME 206\myIGME-206\MemoryGame\bin\Debug\MemoryGame.pdb
+C:\Users\tyler\Desktop\IGME 206\myIGME-206\MemoryGame\obj\Debug\MemoryGame.csprojAssemblyReference.cache
+C:\Users\tyler\Desktop\IGME 206\myIGME-206\MemoryGame\obj\Debug\MemoryGame.csproj.CoreCompileInputs.cache
+C:\Users\tyler\Desktop\IGME 206\myIGME-206\MemoryGame\obj\Debug\MemoryGame.exe
+C:\Users\tyler\Desktop\IGME 206\myIGME-206\MemoryGame\obj\Debug\MemoryGame.pdb
