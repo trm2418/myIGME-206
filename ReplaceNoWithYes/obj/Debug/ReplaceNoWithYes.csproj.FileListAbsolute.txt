@@ -1,0 +1,7 @@
+C:\Users\tyler\Desktop\IGME 206\myIGME-206\ReplaceNoWithYes\bin\Debug\ReplaceNoWithYes.exe.config
+C:\Users\tyler\Desktop\IGME 206\myIGME-206\ReplaceNoWithYes\bin\Debug\ReplaceNoWithYes.exe
+C:\Users\tyler\Desktop\IGME 206\myIGME-206\ReplaceNoWithYes\bin\Debug\ReplaceNoWithYes.pdb
+C:\Users\tyler\Desktop\IGME 206\myIGME-206\ReplaceNoWithYes\obj\Debug\ReplaceNoWithYes.csprojAssemblyReference.cache
+C:\Users\tyler\Desktop\IGME 206\myIGME-206\ReplaceNoWithYes\obj\Debug\ReplaceNoWithYes.csproj.CoreCompileInputs.cache
+C:\Users\tyler\Desktop\IGME 206\myIGME-206\ReplaceNoWithYes\obj\Debug\ReplaceNoWithYes.exe
+C:\Users\tyler\Desktop\IGME 206\myIGME-206\ReplaceNoWithYes\obj\Debug\ReplaceNoWithYes.pdb
