@@ -1,0 +1,7 @@
+C:\Users\tyler\Desktop\IGME 206\myIGME-206\PE8Question5\obj\Debug\PE8Question5.csprojAssemblyReference.cache
+C:\Users\tyler\Desktop\IGME 206\myIGME-206\PE8Question5\obj\Debug\PE8Question5.csproj.CoreCompileInputs.cache
+C:\Users\tyler\Desktop\IGME 206\myIGME-206\PE8Question5\bin\Debug\PE8Question5.exe.config
+C:\Users\tyler\Desktop\IGME 206\myIGME-206\PE8Question5\bin\Debug\PE8Question5.exe
+C:\Users\tyler\Desktop\IGME 206\myIGME-206\PE8Question5\bin\Debug\PE8Question5.pdb
+C:\Users\tyler\Desktop\IGME 206\myIGME-206\PE8Question5\obj\Debug\PE8Question5.exe
+C:\Users\tyler\Desktop\IGME 206\myIGME-206\PE8Question5\obj\Debug\PE8Question5.pdb
