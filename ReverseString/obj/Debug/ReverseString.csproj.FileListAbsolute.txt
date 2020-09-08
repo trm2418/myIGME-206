@@ -1,0 +1,7 @@
+C:\Users\tyler\Desktop\IGME 206\myIGME-206\ReverseString\bin\Debug\ReverseString.exe.config
+C:\Users\tyler\Desktop\IGME 206\myIGME-206\ReverseString\bin\Debug\ReverseString.exe
+C:\Users\tyler\Desktop\IGME 206\myIGME-206\ReverseString\bin\Debug\ReverseString.pdb
+C:\Users\tyler\Desktop\IGME 206\myIGME-206\ReverseString\obj\Debug\ReverseString.csprojAssemblyReference.cache
+C:\Users\tyler\Desktop\IGME 206\myIGME-206\ReverseString\obj\Debug\ReverseString.csproj.CoreCompileInputs.cache
+C:\Users\tyler\Desktop\IGME 206\myIGME-206\ReverseString\obj\Debug\ReverseString.exe
+C:\Users\tyler\Desktop\IGME 206\myIGME-206\ReverseString\obj\Debug\ReverseString.pdb
