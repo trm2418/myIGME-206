@@ -1,0 +1,7 @@
+C:\Users\tyler\Desktop\IGME 206\myIGME-206\DoubleQuotes\bin\Debug\DoubleQuotes.exe.config
+C:\Users\tyler\Desktop\IGME 206\myIGME-206\DoubleQuotes\bin\Debug\DoubleQuotes.exe
+C:\Users\tyler\Desktop\IGME 206\myIGME-206\DoubleQuotes\bin\Debug\DoubleQuotes.pdb
+C:\Users\tyler\Desktop\IGME 206\myIGME-206\DoubleQuotes\obj\Debug\DoubleQuotes.csprojAssemblyReference.cache
+C:\Users\tyler\Desktop\IGME 206\myIGME-206\DoubleQuotes\obj\Debug\DoubleQuotes.csproj.CoreCompileInputs.cache
+C:\Users\tyler\Desktop\IGME 206\myIGME-206\DoubleQuotes\obj\Debug\DoubleQuotes.exe
+C:\Users\tyler\Desktop\IGME 206\myIGME-206\DoubleQuotes\obj\Debug\DoubleQuotes.pdb
