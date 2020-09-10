@@ -1,0 +1,7 @@
+C:\Users\tyler\Desktop\IGME 206\myIGME-206\ReadLineDelegate\bin\Debug\ReadLineDelegate.exe.config
+C:\Users\tyler\Desktop\IGME 206\myIGME-206\ReadLineDelegate\bin\Debug\ReadLineDelegate.exe
+C:\Users\tyler\Desktop\IGME 206\myIGME-206\ReadLineDelegate\bin\Debug\ReadLineDelegate.pdb
+C:\Users\tyler\Desktop\IGME 206\myIGME-206\ReadLineDelegate\obj\Debug\ReadLineDelegate.csprojAssemblyReference.cache
+C:\Users\tyler\Desktop\IGME 206\myIGME-206\ReadLineDelegate\obj\Debug\ReadLineDelegate.csproj.CoreCompileInputs.cache
+C:\Users\tyler\Desktop\IGME 206\myIGME-206\ReadLineDelegate\obj\Debug\ReadLineDelegate.exe
+C:\Users\tyler\Desktop\IGME 206\myIGME-206\ReadLineDelegate\obj\Debug\ReadLineDelegate.pdb
