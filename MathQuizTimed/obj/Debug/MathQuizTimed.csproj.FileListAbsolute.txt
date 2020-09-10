@@ -1,0 +1,7 @@
+C:\Users\tyler\Desktop\IGME 206\myIGME-206\MathQuizTimed\bin\Debug\MathQuizTimed.exe.config
+C:\Users\tyler\Desktop\IGME 206\myIGME-206\MathQuizTimed\bin\Debug\MathQuizTimed.exe
+C:\Users\tyler\Desktop\IGME 206\myIGME-206\MathQuizTimed\bin\Debug\MathQuizTimed.pdb
+C:\Users\tyler\Desktop\IGME 206\myIGME-206\MathQuizTimed\obj\Debug\MathQuizTimed.csprojAssemblyReference.cache
+C:\Users\tyler\Desktop\IGME 206\myIGME-206\MathQuizTimed\obj\Debug\MathQuizTimed.csproj.CoreCompileInputs.cache
+C:\Users\tyler\Desktop\IGME 206\myIGME-206\MathQuizTimed\obj\Debug\MathQuizTimed.exe
+C:\Users\tyler\Desktop\IGME 206\myIGME-206\MathQuizTimed\obj\Debug\MathQuizTimed.pdb
