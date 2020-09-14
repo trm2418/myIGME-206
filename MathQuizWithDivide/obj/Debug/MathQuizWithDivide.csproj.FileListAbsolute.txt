@@ -1,0 +1,7 @@
+C:\Users\tyler\Desktop\IGME 206\myIGME-206\MathQuizWithDivide\bin\Debug\MathQuizWithDivide.exe.config
+C:\Users\tyler\Desktop\IGME 206\myIGME-206\MathQuizWithDivide\bin\Debug\MathQuizWithDivide.exe
+C:\Users\tyler\Desktop\IGME 206\myIGME-206\MathQuizWithDivide\bin\Debug\MathQuizWithDivide.pdb
+C:\Users\tyler\Desktop\IGME 206\myIGME-206\MathQuizWithDivide\obj\Debug\MathQuizWithDivide.csprojAssemblyReference.cache
+C:\Users\tyler\Desktop\IGME 206\myIGME-206\MathQuizWithDivide\obj\Debug\MathQuizWithDivide.csproj.CoreCompileInputs.cache
+C:\Users\tyler\Desktop\IGME 206\myIGME-206\MathQuizWithDivide\obj\Debug\MathQuizWithDivide.exe
+C:\Users\tyler\Desktop\IGME 206\myIGME-206\MathQuizWithDivide\obj\Debug\MathQuizWithDivide.pdb
