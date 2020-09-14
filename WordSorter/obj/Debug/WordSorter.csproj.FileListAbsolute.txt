@@ -1,0 +1,7 @@
+C:\Users\tyler\Desktop\IGME 206\myIGME-206\WordSorter\bin\Debug\WordSorter.exe.config
+C:\Users\tyler\Desktop\IGME 206\myIGME-206\WordSorter\bin\Debug\WordSorter.exe
+C:\Users\tyler\Desktop\IGME 206\myIGME-206\WordSorter\bin\Debug\WordSorter.pdb
+C:\Users\tyler\Desktop\IGME 206\myIGME-206\WordSorter\obj\Debug\WordSorter.csprojAssemblyReference.cache
+C:\Users\tyler\Desktop\IGME 206\myIGME-206\WordSorter\obj\Debug\WordSorter.csproj.CoreCompileInputs.cache
+C:\Users\tyler\Desktop\IGME 206\myIGME-206\WordSorter\obj\Debug\WordSorter.exe
+C:\Users\tyler\Desktop\IGME 206\myIGME-206\WordSorter\obj\Debug\WordSorter.pdb
