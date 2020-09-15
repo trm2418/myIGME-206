@@ -1,0 +1,7 @@
+C:\Users\tyler\Desktop\IGME 206\myIGME-206\3Questions\bin\Debug\3Questions.exe.config
+C:\Users\tyler\Desktop\IGME 206\myIGME-206\3Questions\bin\Debug\3Questions.exe
+C:\Users\tyler\Desktop\IGME 206\myIGME-206\3Questions\bin\Debug\3Questions.pdb
+C:\Users\tyler\Desktop\IGME 206\myIGME-206\3Questions\obj\Debug\3Questions.csprojAssemblyReference.cache
+C:\Users\tyler\Desktop\IGME 206\myIGME-206\3Questions\obj\Debug\3Questions.csproj.CoreCompileInputs.cache
+C:\Users\tyler\Desktop\IGME 206\myIGME-206\3Questions\obj\Debug\3Questions.exe
+C:\Users\tyler\Desktop\IGME 206\myIGME-206\3Questions\obj\Debug\3Questions.pdb
