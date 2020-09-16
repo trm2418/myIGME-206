@@ -1,0 +1,7 @@
+C:\Users\tyler\Desktop\IGME 206\myIGME-206\UT1_BugSquash\bin\Debug\UT1_BugSquash.exe.config
+C:\Users\tyler\Desktop\IGME 206\myIGME-206\UT1_BugSquash\bin\Debug\UT1_BugSquash.exe
+C:\Users\tyler\Desktop\IGME 206\myIGME-206\UT1_BugSquash\bin\Debug\UT1_BugSquash.pdb
+C:\Users\tyler\Desktop\IGME 206\myIGME-206\UT1_BugSquash\obj\Debug\UT1_BugSquash.csprojAssemblyReference.cache
+C:\Users\tyler\Desktop\IGME 206\myIGME-206\UT1_BugSquash\obj\Debug\UT1_BugSquash.csproj.CoreCompileInputs.cache
+C:\Users\tyler\Desktop\IGME 206\myIGME-206\UT1_BugSquash\obj\Debug\UT1_BugSquash.exe
+C:\Users\tyler\Desktop\IGME 206\myIGME-206\UT1_BugSquash\obj\Debug\UT1_BugSquash.pdb
