@@ -1,0 +1,7 @@
+C:\Users\tyler\Desktop\IGME 206\myIGME-206\UnitTest1Question13\bin\Debug\UnitTest1Question13.exe.config
+C:\Users\tyler\Desktop\IGME 206\myIGME-206\UnitTest1Question13\bin\Debug\UnitTest1Question13.exe
+C:\Users\tyler\Desktop\IGME 206\myIGME-206\UnitTest1Question13\bin\Debug\UnitTest1Question13.pdb
+C:\Users\tyler\Desktop\IGME 206\myIGME-206\UnitTest1Question13\obj\Debug\UnitTest1Question13.csprojAssemblyReference.cache
+C:\Users\tyler\Desktop\IGME 206\myIGME-206\UnitTest1Question13\obj\Debug\UnitTest1Question13.csproj.CoreCompileInputs.cache
+C:\Users\tyler\Desktop\IGME 206\myIGME-206\UnitTest1Question13\obj\Debug\UnitTest1Question13.exe
+C:\Users\tyler\Desktop\IGME 206\myIGME-206\UnitTest1Question13\obj\Debug\UnitTest1Question13.pdb
