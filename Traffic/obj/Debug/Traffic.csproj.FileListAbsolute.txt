@@ -1,0 +1,10 @@
+C:\Users\tyler\Desktop\IGME 206\myIGME-206\Traffic\obj\Debug\Traffic.csprojAssemblyReference.cache
+C:\Users\tyler\Desktop\IGME 206\myIGME-206\Traffic\obj\Debug\Traffic.csproj.CoreCompileInputs.cache
+C:\Users\tyler\Desktop\IGME 206\myIGME-206\Traffic\bin\Debug\Traffic.exe.config
+C:\Users\tyler\Desktop\IGME 206\myIGME-206\Traffic\bin\Debug\Traffic.exe
+C:\Users\tyler\Desktop\IGME 206\myIGME-206\Traffic\bin\Debug\Traffic.pdb
+C:\Users\tyler\Desktop\IGME 206\myIGME-206\Traffic\obj\Debug\Traffic.exe
+C:\Users\tyler\Desktop\IGME 206\myIGME-206\Traffic\obj\Debug\Traffic.pdb
+C:\Users\tyler\Desktop\IGME 206\myIGME-206\Traffic\bin\Debug\Vehicles.dll
+C:\Users\tyler\Desktop\IGME 206\myIGME-206\Traffic\bin\Debug\Vehicles.pdb
+C:\Users\tyler\Desktop\IGME 206\myIGME-206\Traffic\obj\Debug\Traffic.csproj.CopyComplete
