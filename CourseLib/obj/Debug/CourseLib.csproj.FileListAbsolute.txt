@@ -1,0 +1,6 @@
+C:\Users\tyler\Desktop\IGME 206\myIGME-206\CourseLib\bin\Debug\CourseLib.dll
+C:\Users\tyler\Desktop\IGME 206\myIGME-206\CourseLib\bin\Debug\CourseLib.pdb
+C:\Users\tyler\Desktop\IGME 206\myIGME-206\CourseLib\obj\Debug\CourseLib.csprojAssemblyReference.cache
+C:\Users\tyler\Desktop\IGME 206\myIGME-206\CourseLib\obj\Debug\CourseLib.csproj.CoreCompileInputs.cache
+C:\Users\tyler\Desktop\IGME 206\myIGME-206\CourseLib\obj\Debug\CourseLib.dll
+C:\Users\tyler\Desktop\IGME 206\myIGME-206\CourseLib\obj\Debug\CourseLib.pdb
