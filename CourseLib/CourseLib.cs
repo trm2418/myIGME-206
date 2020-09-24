@@ -9,19 +9,20 @@ using System.Threading.Tasks;
 
 namespace CourseLib
 {
+
     // Class: Schedule
     public class Schedule
     {
         public DateTime startTime;
         public DateTime endTime;
-        public List<DayOfWeek> daysOfWeek;
+        public List<DayOfWeek> daysOfWeek = new List<DayOfWeek>();
     }
 
     // Class: Courses
     public class Courses
     {
         // stores a sorted list of Course objects
-        public SortedList<string, Course> sortedList;
+        public SortedList<string, Course> sortedList = new SortedList<string, Course>();
 
         // indexer property for courseCode strings
         public Course this[string courseCode]
@@ -112,7 +113,7 @@ namespace CourseLib
         public string courseCode;
         public string description;
         public string teacherEmail;
-        public Schedule schedule;
+        public Schedule schedule = new Schedule();
         
         // Constructor with no parameters
         public Course() { }

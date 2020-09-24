@@ -1,0 +1,6 @@
+C:\Users\tyler\Desktop\IGME 206\myIGME-206\PeopleLib\bin\Debug\PeopleLib.dll
+C:\Users\tyler\Desktop\IGME 206\myIGME-206\PeopleLib\bin\Debug\PeopleLib.pdb
+C:\Users\tyler\Desktop\IGME 206\myIGME-206\PeopleLib\obj\Debug\PeopleLib.csprojAssemblyReference.cache
+C:\Users\tyler\Desktop\IGME 206\myIGME-206\PeopleLib\obj\Debug\PeopleLib.csproj.CoreCompileInputs.cache
+C:\Users\tyler\Desktop\IGME 206\myIGME-206\PeopleLib\obj\Debug\PeopleLib.dll
+C:\Users\tyler\Desktop\IGME 206\myIGME-206\PeopleLib\obj\Debug\PeopleLib.pdb
