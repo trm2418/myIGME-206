@@ -1,0 +1,7 @@
+C:\Users\tyler\Desktop\IGME 206\myIGME-206\PE12_3\bin\Debug\PE12_3.exe.config
+C:\Users\tyler\Desktop\IGME 206\myIGME-206\PE12_3\bin\Debug\PE12_3.exe
+C:\Users\tyler\Desktop\IGME 206\myIGME-206\PE12_3\bin\Debug\PE12_3.pdb
+C:\Users\tyler\Desktop\IGME 206\myIGME-206\PE12_3\obj\Debug\PE12_3.csprojAssemblyReference.cache
+C:\Users\tyler\Desktop\IGME 206\myIGME-206\PE12_3\obj\Debug\PE12_3.csproj.CoreCompileInputs.cache
+C:\Users\tyler\Desktop\IGME 206\myIGME-206\PE12_3\obj\Debug\PE12_3.exe
+C:\Users\tyler\Desktop\IGME 206\myIGME-206\PE12_3\obj\Debug\PE12_3.pdb
