@@ -1,0 +1,7 @@
+C:\Users\tyler\Desktop\IGME 206\myIGME-206\GameOfLife_exe\bin\Debug\GameOfLife_exe.exe.config
+C:\Users\tyler\Desktop\IGME 206\myIGME-206\GameOfLife_exe\bin\Debug\GameOfLife_exe.exe
+C:\Users\tyler\Desktop\IGME 206\myIGME-206\GameOfLife_exe\bin\Debug\GameOfLife_exe.pdb
+C:\Users\tyler\Desktop\IGME 206\myIGME-206\GameOfLife_exe\obj\Debug\GameOfLife_exe.csprojAssemblyReference.cache
+C:\Users\tyler\Desktop\IGME 206\myIGME-206\GameOfLife_exe\obj\Debug\GameOfLife_exe.csproj.CoreCompileInputs.cache
+C:\Users\tyler\Desktop\IGME 206\myIGME-206\GameOfLife_exe\obj\Debug\GameOfLife_exe.exe
+C:\Users\tyler\Desktop\IGME 206\myIGME-206\GameOfLife_exe\obj\Debug\GameOfLife_exe.pdb
