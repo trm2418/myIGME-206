@@ -1,0 +1,13 @@
+C:\Users\dschuh\source\repos\LinkedList\bin\Debug\LinkedList.exe.config
+C:\Users\dschuh\source\repos\LinkedList\bin\Debug\LinkedList.exe
+C:\Users\dschuh\source\repos\LinkedList\bin\Debug\LinkedList.pdb
+C:\Users\dschuh\source\repos\LinkedList\bin\Debug\LinkedListVisualizer.dll
+C:\Users\dschuh\source\repos\LinkedList\bin\Debug\LinkedListVisualizer.pdb
+C:\Users\dschuh\source\repos\LinkedList\obj\Debug\LinkedList.LinkedList.resources
+C:\Users\dschuh\source\repos\LinkedList\obj\Debug\LinkedList.Properties.Resources.resources
+C:\Users\dschuh\source\repos\LinkedList\obj\Debug\LinkedList.csproj.GenerateResource.cache
+C:\Users\dschuh\source\repos\LinkedList\obj\Debug\LinkedList.csproj.CoreCompileInputs.cache
+C:\Users\dschuh\source\repos\LinkedList\obj\Debug\LinkedList.csproj.CopyComplete
+C:\Users\dschuh\source\repos\LinkedList\obj\Debug\LinkedList.exe
+C:\Users\dschuh\source\repos\LinkedList\obj\Debug\LinkedList.pdb
+C:\Users\dschuh\source\repos\LinkedList\obj\Debug\LinkedList.csprojAssemblyReference.cache
