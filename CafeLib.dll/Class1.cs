@@ -101,7 +101,7 @@ namespace CafeLib.dll
 
         public CupOfCocoa() : this(false) { }
 
-        public CupOfCocoa(bool marshmallows) : base("Expensive Organid Brand") { }
+        public CupOfCocoa(bool marshmallows) : base("Expensive Organic Brand") { }
     }
 
 }
