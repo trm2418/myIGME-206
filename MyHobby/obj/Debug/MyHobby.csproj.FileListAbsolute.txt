@@ -1,0 +1,7 @@
+C:\Users\tyler\Desktop\IGME 206\myIGME-206\MyHobby\bin\Debug\MyHobby.exe.config
+C:\Users\tyler\Desktop\IGME 206\myIGME-206\MyHobby\bin\Debug\MyHobby.exe
+C:\Users\tyler\Desktop\IGME 206\myIGME-206\MyHobby\bin\Debug\MyHobby.pdb
+C:\Users\tyler\Desktop\IGME 206\myIGME-206\MyHobby\obj\Debug\MyHobby.csprojAssemblyReference.cache
+C:\Users\tyler\Desktop\IGME 206\myIGME-206\MyHobby\obj\Debug\MyHobby.csproj.CoreCompileInputs.cache
+C:\Users\tyler\Desktop\IGME 206\myIGME-206\MyHobby\obj\Debug\MyHobby.exe
+C:\Users\tyler\Desktop\IGME 206\myIGME-206\MyHobby\obj\Debug\MyHobby.pdb
