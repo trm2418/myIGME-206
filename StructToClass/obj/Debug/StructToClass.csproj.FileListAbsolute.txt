@@ -1,0 +1,7 @@
+C:\Users\tyler\Desktop\IGME 206\myIGME-206\StructToClass\bin\Debug\StructToClass.exe.config
+C:\Users\tyler\Desktop\IGME 206\myIGME-206\StructToClass\bin\Debug\StructToClass.exe
+C:\Users\tyler\Desktop\IGME 206\myIGME-206\StructToClass\bin\Debug\StructToClass.pdb
+C:\Users\tyler\Desktop\IGME 206\myIGME-206\StructToClass\obj\Debug\StructToClass.csprojAssemblyReference.cache
+C:\Users\tyler\Desktop\IGME 206\myIGME-206\StructToClass\obj\Debug\StructToClass.csproj.CoreCompileInputs.cache
+C:\Users\tyler\Desktop\IGME 206\myIGME-206\StructToClass\obj\Debug\StructToClass.exe
+C:\Users\tyler\Desktop\IGME 206\myIGME-206\StructToClass\obj\Debug\StructToClass.pdb
