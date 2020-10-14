@@ -1,0 +1,7 @@
+C:\Users\tyler\Desktop\IGME 206\myIGME-206\Unit Test 2 Question 4\bin\Debug\Unit Test 2 Question 4.exe.config
+C:\Users\tyler\Desktop\IGME 206\myIGME-206\Unit Test 2 Question 4\bin\Debug\Unit Test 2 Question 4.exe
+C:\Users\tyler\Desktop\IGME 206\myIGME-206\Unit Test 2 Question 4\bin\Debug\Unit Test 2 Question 4.pdb
+C:\Users\tyler\Desktop\IGME 206\myIGME-206\Unit Test 2 Question 4\obj\Debug\Unit Test 2 Question 4.csprojAssemblyReference.cache
+C:\Users\tyler\Desktop\IGME 206\myIGME-206\Unit Test 2 Question 4\obj\Debug\Unit Test 2 Question 4.csproj.CoreCompileInputs.cache
+C:\Users\tyler\Desktop\IGME 206\myIGME-206\Unit Test 2 Question 4\obj\Debug\Unit Test 2 Question 4.exe
+C:\Users\tyler\Desktop\IGME 206\myIGME-206\Unit Test 2 Question 4\obj\Debug\Unit Test 2 Question 4.pdb
