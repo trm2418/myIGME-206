@@ -8,6 +8,7 @@ using System.Threading.Tasks;
 
 namespace Unit_Test_2_Question_4
 {
+    // Phone abstract class
     public abstract class Phone
     {
         private string phoneNumber;
@@ -17,6 +18,7 @@ namespace Unit_Test_2_Question_4
         public abstract void Disconnect();
     }
 
+    // PhoneInterface interface
     public interface PhoneInterface
     {
         void Answer();
@@ -24,6 +26,7 @@ namespace Unit_Test_2_Question_4
         void HangUp();
     }
 
+    // RotaryPhone class
     public class RotaryPhone : Phone, PhoneInterface
     {
         public void Answer() { }
@@ -33,6 +36,7 @@ namespace Unit_Test_2_Question_4
         public override void Disconnect() { }
     }
 
+    // PushButtonPhone class
     public class PushButtonPhone : Phone, PhoneInterface
     {
         public void Answer() { }
@@ -42,6 +46,7 @@ namespace Unit_Test_2_Question_4
         public override void Disconnect() { }
     }
 
+    // Tardis class
     public class Tardis : RotaryPhone
     {
         private bool sonicScrewdriver;
@@ -52,6 +57,8 @@ namespace Unit_Test_2_Question_4
         public double exteriorSurfaceArea;
         public double interiorVolume;
 
+        // overload operators. 10 is the best so 10 will always be greater than
+        // anything besides itself
         public static bool operator <(Tardis tardis1, Tardis tardis2)
         {
             byte t1 = tardis1.whichDrWho;
@@ -153,6 +160,7 @@ namespace Unit_Test_2_Question_4
         public void TimeTravel() { }
     }
 
+    // PhoneBooth class
     public class PhoneBooth : PushButtonPhone
     {
         private bool superMan;
@@ -166,15 +174,20 @@ namespace Unit_Test_2_Question_4
     {
         static void UsePhone(object obj)
         {
+            // cast to PhoneInterface to call PhoneInterface methods
             ((PhoneInterface)obj).MakeCall();
             ((PhoneInterface)obj).HangUp();
 
+            // if the object is a PhoneBooth
             if (obj is PhoneBooth)
             {
+                // cast to PhoneBooth and call OpenDoor()
                 ((PhoneBooth)obj).OpenDoor();
             }
+            // else if the object is a Tardis
             else if (obj is Tardis)
             {
+                // cast to Tardis and call TimeTravel()
                 ((Tardis)obj).TimeTravel();
             }
             
@@ -182,8 +195,11 @@ namespace Unit_Test_2_Question_4
 
         static void Main(string[] args)
         {
+            // create Tardis and PhoneBooth objects
             Tardis tardis = new Tardis();
             PhoneBooth phoneBooth = new PhoneBooth();
+
+            // call UsePhone on both objects
             UsePhone(tardis);
             UsePhone(phoneBooth);
         }
