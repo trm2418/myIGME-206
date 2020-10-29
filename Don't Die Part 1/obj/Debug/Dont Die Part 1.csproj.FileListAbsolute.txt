@@ -1,0 +1,7 @@
+C:\Users\tyler\Desktop\IGME 206\myIGME-206\Don't Die Part 1\bin\Debug\Don't Die Part 1.exe.config
+C:\Users\tyler\Desktop\IGME 206\myIGME-206\Don't Die Part 1\bin\Debug\Don't Die Part 1.exe
+C:\Users\tyler\Desktop\IGME 206\myIGME-206\Don't Die Part 1\bin\Debug\Don't Die Part 1.pdb
+C:\Users\tyler\Desktop\IGME 206\myIGME-206\Don't Die Part 1\obj\Debug\Dont Die Part 1.csprojAssemblyReference.cache
+C:\Users\tyler\Desktop\IGME 206\myIGME-206\Don't Die Part 1\obj\Debug\Dont Die Part 1.csproj.CoreCompileInputs.cache
+C:\Users\tyler\Desktop\IGME 206\myIGME-206\Don't Die Part 1\obj\Debug\Don't Die Part 1.exe
+C:\Users\tyler\Desktop\IGME 206\myIGME-206\Don't Die Part 1\obj\Debug\Don't Die Part 1.pdb
