@@ -1,0 +1,10 @@
+C:\Users\tyler\Desktop\IGME 206\myIGME-206\Dont Die Part 2\bin\Debug\Dont Die Part 2.exe.config
+C:\Users\tyler\Desktop\IGME 206\myIGME-206\Dont Die Part 2\bin\Debug\Dont Die Part 2.exe
+C:\Users\tyler\Desktop\IGME 206\myIGME-206\Dont Die Part 2\bin\Debug\Dont Die Part 2.pdb
+C:\Users\tyler\Desktop\IGME 206\myIGME-206\Dont Die Part 2\obj\Debug\Dont Die Part 2.csprojAssemblyReference.cache
+C:\Users\tyler\Desktop\IGME 206\myIGME-206\Dont Die Part 2\obj\Debug\Dont Die Part 2.csproj.CoreCompileInputs.cache
+C:\Users\tyler\Desktop\IGME 206\myIGME-206\Dont Die Part 2\obj\Debug\Dont Die Part 2.exe
+C:\Users\tyler\Desktop\IGME 206\myIGME-206\Dont Die Part 2\obj\Debug\Dont Die Part 2.pdb
+C:\Users\tyler\Desktop\IGME 206\myIGME-206\Dont Die Part 2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\tyler\Desktop\IGME 206\myIGME-206\Dont Die Part 2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\tyler\Desktop\IGME 206\myIGME-206\Dont Die Part 2\obj\Debug\Dont Die Part 2.csproj.CopyComplete
