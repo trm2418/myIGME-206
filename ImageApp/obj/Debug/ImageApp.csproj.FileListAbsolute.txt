@@ -1,0 +1,10 @@
+C:\Users\tyler\Desktop\IGME 206\myIGME-206\ImageApp\bin\Debug\ImageApp.exe.config
+C:\Users\tyler\Desktop\IGME 206\myIGME-206\ImageApp\bin\Debug\ImageApp.exe
+C:\Users\tyler\Desktop\IGME 206\myIGME-206\ImageApp\bin\Debug\ImageApp.pdb
+C:\Users\tyler\Desktop\IGME 206\myIGME-206\ImageApp\obj\Debug\ImageApp.csprojAssemblyReference.cache
+C:\Users\tyler\Desktop\IGME 206\myIGME-206\ImageApp\obj\Debug\ImageApp.Form1.resources
+C:\Users\tyler\Desktop\IGME 206\myIGME-206\ImageApp\obj\Debug\ImageApp.Properties.Resources.resources
+C:\Users\tyler\Desktop\IGME 206\myIGME-206\ImageApp\obj\Debug\ImageApp.csproj.GenerateResource.cache
+C:\Users\tyler\Desktop\IGME 206\myIGME-206\ImageApp\obj\Debug\ImageApp.csproj.CoreCompileInputs.cache
+C:\Users\tyler\Desktop\IGME 206\myIGME-206\ImageApp\obj\Debug\ImageApp.exe
+C:\Users\tyler\Desktop\IGME 206\myIGME-206\ImageApp\obj\Debug\ImageApp.pdb

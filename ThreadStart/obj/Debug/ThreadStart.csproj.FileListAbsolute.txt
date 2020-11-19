@@ -1,0 +1,7 @@
+C:\Users\tyler\Desktop\IGME 206\myIGME-206\ThreadStart\bin\Debug\ThreadStart.exe.config
+C:\Users\tyler\Desktop\IGME 206\myIGME-206\ThreadStart\bin\Debug\ThreadStart.exe
+C:\Users\tyler\Desktop\IGME 206\myIGME-206\ThreadStart\bin\Debug\ThreadStart.pdb
+C:\Users\tyler\Desktop\IGME 206\myIGME-206\ThreadStart\obj\Debug\ThreadStart.csprojAssemblyReference.cache
+C:\Users\tyler\Desktop\IGME 206\myIGME-206\ThreadStart\obj\Debug\ThreadStart.csproj.CoreCompileInputs.cache
+C:\Users\tyler\Desktop\IGME 206\myIGME-206\ThreadStart\obj\Debug\ThreadStart.exe
+C:\Users\tyler\Desktop\IGME 206\myIGME-206\ThreadStart\obj\Debug\ThreadStart.pdb
