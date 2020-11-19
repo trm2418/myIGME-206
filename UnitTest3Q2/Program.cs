@@ -54,17 +54,20 @@ namespace UnitTest3Q2
             }
         }
 
-        public class LinkedListNode
+        // Cell class used in the Linked List implementation
+        public class Cell
         {
             public string color;
-            public (LinkedListNode, int)[] edges = new (LinkedListNode, int)[] { };
 
-            public LinkedListNode(string color)
+            // the edges and their costs
+            public (Cell, int)[] edges = new (Cell, int)[] { };
+
+            public Cell(string color)
             {
                 this.color = color;
             }
 
-            public void AddEdges(params (LinkedListNode, int)[] edges)
+            public void AddEdges(params (Cell, int)[] edges)
             {
                 this.edges = edges;
             }
@@ -80,12 +83,8 @@ namespace UnitTest3Q2
         // Purple
         // Greeen
 
-        // convert the index of the node in nodes List to its color
-        static Dictionary<int, string> colorDict = new Dictionary<int, string>()
-        {
-            {0, "red"}, {1, "dark blue"}, {2, "gray"}, {3, "light blue"},
-            {4, "yellow"}, {5, "orange"}, {6, "purple"}, {7, "green"}
-        };
+        // used to convert the index of the node in nodes List to its color
+        static string[] colors = new string[] { "red", "dark blue", "gray", "light blue", "yellow", "orange", "purple", "green" };
 
         // adjacency matrix representation of digraph
         static int[,] matrix = new int[,]
@@ -116,19 +115,21 @@ namespace UnitTest3Q2
         // stores all the nodes, used by Dijkstra methods
         static List<Node> nodes = new List<Node>();
 
+        static LinkedList<Cell> linkedList = new LinkedList<Cell>();
+
         static void Main(string[] args)
         {
             // Linked List implementation
-            LinkedListNode red = new LinkedListNode("red");
-            LinkedListNode darkBlue = new LinkedListNode("dark blue");
-            LinkedListNode gray = new LinkedListNode("gray");
-            LinkedListNode lightBlue = new LinkedListNode("light blue");
-            LinkedListNode yellow = new LinkedListNode("yellow");
-            LinkedListNode orange = new LinkedListNode("orange");
-            LinkedListNode purple = new LinkedListNode("purple");
-            LinkedListNode green = new LinkedListNode("green");
+            Cell red = new Cell("red");
+            Cell darkBlue = new Cell("dark blue");
+            Cell gray = new Cell("gray");
+            Cell lightBlue = new Cell("light blue");
+            Cell yellow = new Cell("yellow");
+            Cell orange = new Cell("orange");
+            Cell purple = new Cell("purple");
+            Cell green = new Cell("green");
 
-            // Connect Linked List Nodes to each other
+            // Connect Linked List Cells to each other
             red.AddEdges((darkBlue, 1), (gray, 5));
             darkBlue.AddEdges((lightBlue, 1), (yellow, 8));
             gray.AddEdges((lightBlue, 0), (orange, 1));
@@ -204,7 +205,7 @@ namespace UnitTest3Q2
             Console.WriteLine("\nDijkstra's Shortest Path: ");
             foreach (Node noe in shortestPath)
             {
-                Console.WriteLine(colorDict[nodes.IndexOf(noe)]);
+                Console.WriteLine(colors[nodes.IndexOf(noe)]);
             }
         }
 
@@ -219,7 +220,7 @@ namespace UnitTest3Q2
         static void DFSUtil(int v, bool[] visited)
         {
             visited[v] = true;
-            Console.WriteLine(colorDict[v]);
+            Console.WriteLine(colors[v]);
 
             (int, int)[] thisStateNeighbors = list[v];
             foreach((int, int) n in thisStateNeighbors)
@@ -287,7 +288,7 @@ namespace UnitTest3Q2
 
             foreach (Node node in prioQueue)
             {
-                Console.WriteLine(colorDict[nodes.IndexOf(node)]);
+                Console.WriteLine(colors[nodes.IndexOf(node)]);
             }
         }
 
