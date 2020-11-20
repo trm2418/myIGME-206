@@ -1,0 +1,7 @@
+C:\Users\tyler\Desktop\IGME 206\myIGME-206\UnitTest3Q6\bin\Debug\UnitTest3Q6.exe.config
+C:\Users\tyler\Desktop\IGME 206\myIGME-206\UnitTest3Q6\bin\Debug\UnitTest3Q6.exe
+C:\Users\tyler\Desktop\IGME 206\myIGME-206\UnitTest3Q6\bin\Debug\UnitTest3Q6.pdb
+C:\Users\tyler\Desktop\IGME 206\myIGME-206\UnitTest3Q6\obj\Debug\UnitTest3Q6.csprojAssemblyReference.cache
+C:\Users\tyler\Desktop\IGME 206\myIGME-206\UnitTest3Q6\obj\Debug\UnitTest3Q6.csproj.CoreCompileInputs.cache
+C:\Users\tyler\Desktop\IGME 206\myIGME-206\UnitTest3Q6\obj\Debug\UnitTest3Q6.exe
+C:\Users\tyler\Desktop\IGME 206\myIGME-206\UnitTest3Q6\obj\Debug\UnitTest3Q6.pdb
