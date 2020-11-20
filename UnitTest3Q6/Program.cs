@@ -242,67 +242,6 @@ namespace UnitTest3Q6
                     }
                 }
             }
-            //////////////////////////////////////////////////////////
-
-            //////////////////////////////////////////////////////////
-            // Delete a node from a tree or branch
-            public static BTree DeleteNode(BTree nodeToDelete, BTree treeNode)
-            {
-                // base case: we reached the end of the branch
-                if (treeNode == null)
-                {
-                    return treeNode;
-                }
-
-                // traverse the tree to find the target node
-                if (nodeToDelete < treeNode)
-                {
-                    treeNode.ltChild = DeleteNode(nodeToDelete, treeNode.ltChild);
-                }
-                else if (nodeToDelete > treeNode)
-                {
-                    treeNode.gteChild = DeleteNode(nodeToDelete, treeNode.gteChild);
-                }
-                else
-                {
-                    // this is the node to be deleted  
-
-                    // case #1: treeNode has no children
-                    // case #2: treeNode has one child
-                    // set treeNode to it's non-null child (if there is one)
-                    if (treeNode.ltChild == null)
-                    {
-                        return treeNode.gteChild;
-                    }
-                    else if (treeNode.gteChild == null)
-                    {
-                        return treeNode.ltChild;
-                    }
-
-                    // case #3: treeNode has two children
-                    // Get the in-order successor (smallest value  
-                    // in the "greater than or equal to" branch)  
-
-                    // step to the next greater value
-                    BTree nextValNode = treeNode.gteChild;
-
-                    // while not at the end of the branch
-                    while (nextValNode != null)
-                    {
-                        // replace this "deleted" node with the next sequential data value
-                        treeNode.data = nextValNode.data;
-
-                        // walk to next lower value
-                        nextValNode = nextValNode.ltChild;
-                    }
-
-                    // delete the in-order successor (which was copied to the "deleted" node)
-                    nodeToDelete.data = treeNode.data;
-                    DeleteNode(nodeToDelete, treeNode.gteChild);
-                }
-
-                return treeNode;
-            }
 
 
             //////////////////////////////////////////////////////////
@@ -317,73 +256,52 @@ namespace UnitTest3Q6
                     if (node.isData)
                     {
                         // handle current node
-
-                        // add node to numbers
-                        numbers.Add((int)node.data);
-
-                        // print ltChild, self and gteChild
-                        if (node.ltChild != null)
-                        {
-                            Console.Write(node.ltChild.data + " ");
-                        }
-
-                        Console.Write(node.data + " ");
-
-                        if (node.gteChild != null)
-                        {
-                            Console.Write(node.gteChild.data + " ");
-                        }
-                        Console.WriteLine();
                     }
 
                     // handle "greater than or equal to children"
                     TraverseAscending(node.gteChild);
                 }
             }
-
-
-            //////////////////////////////////////////////////////////
-            // Print the tree in descending order
-            public static void TraverseDescending(BTree node)
-            {
-                // base case is node == null
-                if (node != null)
-                {
-                }
-            }
         }
 
         static List<int> numbers = new List<int>();
 
-        /*
-        public static int FindMidpointBetween(int start, int end)
+        // BalanceTree method
+        // uses a min and max int variable to find the midpoint of a subsection of the
+        // numbers list. recursively calls itself until the subsection is empty
+        static void BalanceTree(BTree root, BTree node, List<int> nums, int min, int max)
         {
-            return numbers[(start + end) / 2];
-        }
-
-        public static void BalanceTree(BTree root, BTree node, int startIndex, int endIndex)
-        {
-            int midIndex = (startIndex + endIndex) / 2;
-
-            if (midIndex != startIndex)
+            if (min != max)
             {
-                node = new BTree(FindMidpointBetween(startIndex, midIndex), root);
-                BalanceTree(root, node, startIndex, midIndex);
+                // find the middle index
+                int midIndex = min + (max - min) / 2;
 
-                node = new BTree(FindMidpointBetween(midIndex, endIndex), root);
-                BalanceTree(root, node, midIndex, endIndex);
+                // add middle index to tree
+                node = new BTree(nums[midIndex], root);
+
+                // if this is the first time this function runs
+                if (min == 0 && max == numbers.Count)
+                {
+                    // set this node as the root
+                    root = node;
+                }
+
+                // recursively call this method with the left and right subsection
+                BalanceTree(root, node, nums, min, midIndex);
+                BalanceTree(root, node, nums, midIndex + 1, max);
             }
-        }*/
+        }
 
         static void Main(string[] args)
         {
             BTree root = null;
             BTree node = null;
 
-            // add numbers in order
+            // add numbers to the tree and numbers List
             foreach (int i in new int[] { 1, 5, 15, 20, 21, 22, 23, 24, 25, 30, 35, 37, 40, 55, 60})
             {
                 node = new BTree(i, root);
+                numbers.Add(i);
 
                 if (i == 1)
                 {
@@ -391,57 +309,14 @@ namespace UnitTest3Q6
                 }
             }
 
+            // traverse the tree in ascending order
             BTree.TraverseAscending(root);
 
-            Console.WriteLine();
-
-            // make 24 the root since it's in the middle
-            root = new BTree(24, root);
-
-            // continue adding the midpoints
-            node = new BTree(20, root);
-            node = new BTree(37, root);
-
-            node = new BTree(5, root);
-            node = new BTree(22, root);
-            node = new BTree(30, root);
-            node = new BTree(55, root);
-
-            node = new BTree(1, root);
-            node = new BTree(15, root);
-            node = new BTree(21, root);
-            node = new BTree(23, root);
-            node = new BTree(25, root);
-            node = new BTree(35, root);
-            node = new BTree(40, root);
-            node = new BTree(60, root);
-
-            BTree.TraverseAscending(root);
-
-            /*
-            Console.WriteLine();
-            
+            // sort the numbers List so that it works with BalanceTree method
             numbers.Sort();
 
-            int midIndex = numbers.Count / 2;
-
-            root = new BTree(numbers[midIndex], root);
-
-            BalanceTree(root, node, 0, numbers.Count - 1);
-
-            
-                      7
-                3            11
-             1     5     9       13
-            0 2   4 6   8 10   12 14
-
-
-            1, 5, 15, 20, 21, 22, 23, 24, 25, 30, 35, 37, 40, 55, 60
-                                      24
-                      20                              37
-               5              22              30              55
-            1     15      21      23      25      35      40      60
-            */
+            // call BalanceTree method
+            BalanceTree(root, node, numbers, 0, numbers.Count);
         }
     }
 }
