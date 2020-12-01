@@ -1,0 +1,7 @@
+C:\Users\tyler\Desktop\IGME 206\myIGME-206\MadderLibs\bin\Debug\MadderLibs.exe.config
+C:\Users\tyler\Desktop\IGME 206\myIGME-206\MadderLibs\bin\Debug\MadderLibs.exe
+C:\Users\tyler\Desktop\IGME 206\myIGME-206\MadderLibs\bin\Debug\MadderLibs.pdb
+C:\Users\tyler\Desktop\IGME 206\myIGME-206\MadderLibs\obj\Debug\MadderLibs.csprojAssemblyReference.cache
+C:\Users\tyler\Desktop\IGME 206\myIGME-206\MadderLibs\obj\Debug\MadderLibs.csproj.CoreCompileInputs.cache
+C:\Users\tyler\Desktop\IGME 206\myIGME-206\MadderLibs\obj\Debug\MadderLibs.exe
+C:\Users\tyler\Desktop\IGME 206\myIGME-206\MadderLibs\obj\Debug\MadderLibs.pdb
