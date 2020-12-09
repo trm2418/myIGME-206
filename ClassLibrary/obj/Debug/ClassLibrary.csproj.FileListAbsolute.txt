@@ -4,3 +4,7 @@ C:\Users\tyler\Desktop\IGME 206\Final Project All\ClassLibrary\bin\Debug\ClassLi
 C:\Users\tyler\Desktop\IGME 206\Final Project All\ClassLibrary\obj\Debug\ClassLibrary.dll
 C:\Users\tyler\Desktop\IGME 206\Final Project All\ClassLibrary\obj\Debug\ClassLibrary.pdb
 C:\Users\tyler\Desktop\IGME 206\Final Project All\ClassLibrary\obj\Debug\ClassLibrary.csprojAssemblyReference.cache
+C:\Users\tyler\Desktop\IGME 206\myIGME-206\ClassLibrary\obj\Debug\ClassLibrary.csprojAssemblyReference.cache
+C:\Users\tyler\Desktop\IGME 206\myIGME-206\ClassLibrary\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\tyler\Desktop\IGME 206\myIGME-206\ClassLibrary\obj\Debug\ClassLibrary.dll
+C:\Users\tyler\Desktop\IGME 206\myIGME-206\ClassLibrary\obj\Debug\ClassLibrary.pdb
